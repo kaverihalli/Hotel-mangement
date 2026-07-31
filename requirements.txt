@@ -1,0 +1,4 @@
+flask
+gunricorn
+flask-sqlalchemy
+psycopg2-binary
